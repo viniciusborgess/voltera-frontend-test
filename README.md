@@ -1,4 +1,4 @@
-# Bem-vindo! Esta é uma aplicação de teste desenvolvida com SvelteKit para o desafio de frontend da Voltera 🧪
+# Aplicação de teste desenvolvida com SvelteKit para o desafio de frontend da Voltera 🧪
 
 Bem-vindo à aplicação de teste feita com **SvelteKit**!  
 Essa aplicação consulta a [API gratuita do Agify](https://agify.io) e retorna uma estimativa de idade com base em um nome digitado.
