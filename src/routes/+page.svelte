@@ -170,6 +170,48 @@
 	.dot.green {
 		background: #27c93f;
 	}
+
+	@media (max-width: 600px) {
+		main {
+			min-height: 100vh;
+			padding: 0 0.5em;
+		}
+		.glass-card {
+			width: 100%;
+			min-width: unset;
+			max-width: 100vw;
+			padding: 1.2em 0.7em 1.2em 0.7em;
+			margin-top: 1.2em;
+			border-radius: 14px;
+		}
+		.macos-dots {
+			gap: 0.3em;
+			top: 0.7em;
+			left: 0.7em;
+		}
+		.dot {
+			width: 11px;
+			height: 11px;
+		}
+		h1 {
+			font-size: 1.3em;
+			margin-bottom: 0.3em;
+		}
+		p {
+			font-size: 1em;
+		}
+		input[type="text"] {
+			font-size: 1em;
+			padding: 0.5em 0.7em;
+			margin-bottom: 1em;
+		}
+		.resultado {
+			font-size: 0.98em;
+		}
+		.resultado .idade {
+			font-size: 1.1em;
+		}
+	}
 </style>
 
 <main>
